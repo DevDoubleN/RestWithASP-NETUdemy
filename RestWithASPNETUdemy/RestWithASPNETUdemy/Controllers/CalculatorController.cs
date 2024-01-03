@@ -14,6 +14,21 @@ public class CalculatorController : ControllerBase
         _logger = logger;
     }
 
+    [HttpGet("OperationTypes")]
+    public IActionResult OperationTypes()
+    {
+        List<string> types = new List<string>();
+
+        types.Add("Sum");
+        types.Add("Subtraction");
+        types.Add("Multiplication");
+        types.Add("Division");
+        types.Add("Mean");
+        types.Add("SquareRoot");
+
+        return Ok(types);
+    }
+
     [HttpGet("Get/{operation}/{firstNumber}/{secondNumber}")]
     public IActionResult Get(string operation, string firstNumber, string secondNumber)
     {
@@ -35,12 +50,18 @@ public class CalculatorController : ControllerBase
                 case "Division":
                     result = ConvertToDecimal(firstNumber) / ConvertToDecimal(secondNumber);
                     break;
+                case "Mean":
+                    result = (ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber)) / 2;
+                    break;
+                case "SquareRoot":
+                    result = (decimal)Math.Sqrt((double)ConvertToDecimal(firstNumber));
+                    break;
             }
 
             return Ok(result.ToString());
         }
         
-        return BadRequest("Invalid input");
+        return BadRequest("Invalid operation or input!");
     }
 
     #region Private methods
