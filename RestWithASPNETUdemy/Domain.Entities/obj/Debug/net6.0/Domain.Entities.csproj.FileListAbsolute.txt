@@ -1,0 +1,12 @@
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\bin\Debug\net6.0\Domain.Entities.deps.json
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\bin\Debug\net6.0\Domain.Entities.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.csproj.AssemblyReference.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.AssemblyInfoInputs.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.AssemblyInfo.cs
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\refint\Domain.Entities.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\Domain.Entities.pdb
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Domain.Entities\obj\Debug\net6.0\ref\Domain.Entities.dll

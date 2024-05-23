@@ -1,0 +1,12 @@
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\bin\Debug\net6.0\Application.DTOs.deps.json
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\bin\Debug\net6.0\Application.DTOs.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\bin\Debug\net6.0\Application.DTOs.pdb
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.csproj.AssemblyReference.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.AssemblyInfoInputs.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.AssemblyInfo.cs
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.csproj.CoreCompileInputs.cache
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\refint\Application.DTOs.dll
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\Application.DTOs.pdb
+C:\Dev Space\Code\DotNet\RestWithASP-NETUdemy\RestWithASP-NETUdemy\RestWithASPNETUdemy\Application.DTOs\obj\Debug\net6.0\ref\Application.DTOs.dll
